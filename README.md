@@ -15,6 +15,7 @@ The dataset contains detailed metrics on:
 - Treatment Information – Primary treatment type, average treatment cost, availability of vaccines/treatments.
 - Socio-Economic Factors – Per capita income, education index, urbanization rate.
 - Outcome Measures – Disability-Adjusted Life Years (DALYs) and five-year improvement rates.
+
 Geographic & Temporal Coverage: Data from multiple countries and years, enabling both cross-sectional and longitudinal analysis.
 
 ---
@@ -31,18 +32,18 @@ Geographic & Temporal Coverage: Data from multiple countries and years, enabling
 A robust cleaning pipeline ensures reliability and consistency in the analysis:
 
 1. Understand the Data Structure
-- Identify variables: disease type, demographics, time period, location, outcomes.
-- Develop metadata to define column meanings.
+    - Identify variables: disease type, demographics, time period, location, outcomes.
+    - Develop metadata to define column meanings.
 
 2. Handle Missing Data
-- Quantify missing values per column.
-- Drop, fill, or flag values based on significance.
-- Special attention to critical epidemiology fields (date, disease name).
+    - Quantify missing values per column.
+    - Drop, fill, or flag values based on significance.
+    - Special attention to critical epidemiology fields (date, disease name).
 
 3. Standardize Data Formats
-- Dates in `YYYY` format.
-- Normalize categorical values (e.g., unify “Malaria”, “malaria”, “MALARIA”).
-- Standardize Column Values.
+    - Dates in `YYYY` format.
+    - Normalize categorical values (e.g., unify “Malaria”, “malaria”, “MALARIA”).
+    - Standardize Column Values.
 ----
 
 **Methodology**
