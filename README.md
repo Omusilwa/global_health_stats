@@ -2,14 +2,13 @@
 
 **Overview**
 
-This project presents an automated and interactive analysis of global health outcomes, integrating multiple datasets to uncover disease prevalence, treatment trends, and system-level performance indicators. Through data visualization and dynamic filtering, the dashboard offers a clear and actionable view of how healthcare, socioeconomic, and developmental factors influence population health.
+This an interactive analysis of global health outcomes, to uncover disease prevalence, treatment trends, and system-level performance indicators. Through data visualization and dynamic filtering, the dashboard offers a clear and actionable view of how healthcare, socioeconomic, and developmental factors influence population health.
 
 The analysis aims to bridge data insights with decision-making — empowering policymakers, researchers, and healthcare administrators to identify trends, evaluate progress, and target interventions that improve both efficiency and outcomes in health systems worldwide.
 
 ---
 
-**Dataset Description**
-The dataset contains detailed metrics on:
+**Dataset Description:** The dataset contains detailed metrics on:
 
 - **Disease Indicators** – Prevalence, incidence, mortality, and recovery rates.
 - **Healthcare Infrastructure** – Healthcare access %, doctors per 1,000 people, hospital beds per 1,000 people.
