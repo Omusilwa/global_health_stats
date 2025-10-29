@@ -4180,7 +4180,7 @@
       <simple-id uuid='{04F0C257-117D-48A5-976A-27EE26B47CF0}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' source-height='63'>
+  <windows source-height='63'>
     <window class='dashboard' maximized='true' name='Health Stats Dashboard'>
       <viewpoints>
         <viewpoint name='DALYS BAN'>
